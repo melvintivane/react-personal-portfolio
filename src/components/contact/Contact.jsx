@@ -11,8 +11,10 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_2hp7r2l', 'template_kuczhc1', form.current, '0kv0p7c5UfrQ7ulrs');
-    e.target.reset();
+    try {
+      emailjs.sendForm('service_o9bbfwq', 'template_kuczhc1', form.current, '0kv0p7c5UfrQ7ulrs');
+      e.target.reset();
+    } catch (error) {}
   };
 
   return (
