@@ -11,16 +11,12 @@
 }
 
 :root {
-  /* --color-bg: #1f1f38; 
-  --color-bg-variant: #2c2c6c; 
-  --color-primary: #4db5ff;
-  --color-primary-variant: rgba(77, 181, 255, 0.4);  */
-  --color-bg: #0c0c15;
-  --color-bg-variant: #26564b;
-  --color-primary: #18e7b6;
-  --color-primary-variant: #1ec29c;
-  --color-white: #fff;
-  --color-light: rgba(255, 255, 255, 0.6);
+  --color-bg: #fff;
+  --color-bg-variant: #d7dff7;
+  --color-primary: #2930fe;
+  --color-primary-variant: #1e68c2;
+  --color-white: #252525;
+  --color-light: #1b1b1b99;
 
   --transition: all 400ms ease;
 
@@ -42,7 +38,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/texture-bg.png);
+  /* background-image: url(../src/assets/texture-bg.png); */
 }
 
 /*=================================== STYLES GERAIS ===================================*/

@@ -5,8 +5,9 @@
 }
 
 .experience__container > div {
-  background: var(--color-bg-variant);
+  background: var(--color-primary);
   padding: 1.4rem 4rem;
+  color: var(--color-bg);
   border-radius: 1.5rem;
   border: 1px solid transparent;
   transition: var(--transition);
@@ -14,7 +15,7 @@
 
 .experience__container > div:hover {
   background: transparent;
-  border-color: var(--color-primary-variant);
+  border-color: var(--color-black);
   cursor: default;
 }
 
