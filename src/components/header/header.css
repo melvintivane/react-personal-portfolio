@@ -14,9 +14,9 @@ header {
 }
 
 .cta {
-  margin-top: 2.5rem;
+  margin-top: 1.5rem;
   display: flex;
-  gap: 1.2rem;
+  gap: 1rem;
   justify-content: center;
 }
 
@@ -37,7 +37,6 @@ header {
   width: 1px;
   height: 2rem;
   background: var(--color-primary);
-  /* background: black; */
 }
 
 .me {
@@ -62,7 +61,7 @@ header {
   transform: rotate(90deg);
   color: var(--color-primary);
   font-weight: 400;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 /*================= MEDIA QUERIES (MEDIUM DEVICES) ==================*/
