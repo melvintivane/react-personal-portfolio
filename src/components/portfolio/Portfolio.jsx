@@ -15,7 +15,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfololio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='button' target='_blank' rel="noreferrer">GitHub</a>
+            <a href="https://github.com/melvintivane" className='button' target='_blank' rel="noreferrer">GitHub</a>
             <a href="https://dribbble.com/Alien_pixels" className='button button-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
@@ -25,7 +25,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfololio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='button' target='_blank' rel="noreferrer">GitHub</a>
+            <a href="https://github.com/melvintivane" className='button' target='_blank' rel="noreferrer">GitHub</a>
             <a href="https://dribbble.com/Alien_pixels" className='button button-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
@@ -35,7 +35,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfololio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='button' target='_blank' rel="noreferrer">GitHub</a>
+            <a href="https://github.com/melvintivane" className='button' target='_blank' rel="noreferrer">GitHub</a>
             <a href="https://dribbble.com/Alien_pixels" className='button button-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
@@ -45,7 +45,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfololio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='button' target='_blank' rel="noreferrer">GitHub</a>
+            <a href="https://github.com/melvintivane" className='button' target='_blank' rel="noreferrer">GitHub</a>
             <a href="https://dribbble.com/Alien_pixels" className='button button-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
@@ -55,7 +55,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfololio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='button' target='_blank' rel="noreferrer">GitHub</a>
+            <a href="https://github.com/melvintivane" className='button' target='_blank' rel="noreferrer">GitHub</a>
             <a href="https://dribbble.com/Alien_pixels" className='button button-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
@@ -65,7 +65,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfololio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='button' target='_blank' rel="noreferrer">GitHub</a>
+            <a href="https://github.com/melvintivane" className='button' target='_blank' rel="noreferrer">GitHub</a>
             <a href="https://dribbble.com/Alien_pixels" className='button button-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
@@ -74,4 +74,4 @@ const Portfolio = () => {
   )
 }
 
-export default Portfolio
+export default Portfolio;
